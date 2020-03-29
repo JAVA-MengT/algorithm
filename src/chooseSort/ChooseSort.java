@@ -1,4 +1,4 @@
-package ChooseSort;
+package chooseSort;
 
 /**
  * @author zengjinlin
