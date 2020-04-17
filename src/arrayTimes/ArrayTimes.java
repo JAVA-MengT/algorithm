@@ -48,5 +48,6 @@ public class ArrayTimes {
         int f = sortTimes(new int[]{1, 222, 222, 222, 2345, 7891, 7891, 6666}, 222, true);
         int end = sortTimes(new int[]{1, 222, 222, 222, 2345, 7891, 7891, 6666}, 222, false);
         System.out.println("一共出现了" + (end - f + 1));
+        System.out.println("ceshi");
     }
 }
